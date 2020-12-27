@@ -5,3 +5,4 @@ for i in tabela {
     print(tabela[i])
     i = i+1
 }
+// komentarz
